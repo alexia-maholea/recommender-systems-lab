@@ -20,3 +20,7 @@ Dataset-ul conține **5.562 de înregistrări despre filme** și 10 coloane care
 - `Runtime(Mins)` – durata filmului, exprimată în minute.
 - `Censor` – informații privind clasificarea filmului.
 - `Total_Gross` – încasările totale ale filmului.
+
+## Laborator 3
+
+Item-urile din dataset au fost încărcate cu succes în Recombee.. Ca ID unic pentru fiecare film am folosit `movie_<index>` (ex.: `movie_0`, `movie_1`, ...), legat la proprietatea `itemId` din Recombee.
